@@ -1,0 +1,5 @@
+# Kopeeri see fail nimega .env ja muuda väärtused
+# cp config/.env.example config/.env
+
+# Mitu päeva varukoopiad alles hoida
+BACKUP_RETENTION_DAYS=7
