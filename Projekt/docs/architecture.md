@@ -33,7 +33,7 @@ Ubuntu valiti kuna:
 
 ### Ubuntu Server
 - Operatsioonisüsteem millel kõik töötab
-- Ligipääs SSH kaudu: `ssh rpfserver@10.69.41.78`
+- Ligipääs SSH kaudu: `ssh rpfserver@10.69.41.187`
 - Asub VPN võrgus (TPTLAB-STUDVPN)
 
 ### Nginx
