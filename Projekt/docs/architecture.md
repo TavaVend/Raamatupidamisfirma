@@ -77,4 +77,4 @@ sudo docker exec projekt_backup_1 ls /backup
 
 ## Võrk
 
-Teenus asub VPN võrgus. URL: `http://10.69.41.78`
+Teenus asub VPN võrgus. URL: `http://10.69.41.187`
